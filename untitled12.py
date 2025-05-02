@@ -9,7 +9,6 @@ Original file is located at
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 car=pd.read_csv('/content/dataset.csv')
 
